@@ -3,7 +3,7 @@
 error_reporting(0);
 date_default_timezone_set('Asia/Kolkata');
 
-$ApiKey = "a4a4bd84edc44e4d805fea42d72d1e55"; // get your own apiKey from " https://babel-in.xyz "
+$ApiKey = "TY0oigCXFZCZKVsLO106toU9nzLmM3nv"; // get your own apiKey from " https://babel-in.xyz "
 $worldwide = "yes"; // set yes if u wanna restream else no
 $genreName = "Babel-IN"; // for m3u category
 $userAgent = 'Mozilla/5.0';
@@ -148,4 +148,5 @@ if ($worldwide === "no") {
     $userIP = $serverIP;
 
 }
+
 
